@@ -1,4 +1,3 @@
-![alt text](https://github.com/pira998/covid_tracker/blob/master/assets/global.png?raw=true)
 # Start the Wave server
 To start the Wave server, simply open a new terminal window and execute `waved` (or `waved.exe` on Windows).
 `cd $HOME/wave`
